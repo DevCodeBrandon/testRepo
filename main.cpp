@@ -9,6 +9,6 @@ printf("10 is less than 15 \n");
 }
 printf("100 is less than 15 \n");
 }
-printf("1000000 is less than 15 \n");
+printf("1 is less than 15 \n");
 }
 
